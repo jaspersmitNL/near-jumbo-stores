@@ -32,7 +32,7 @@ dependencies {
 
 
 application {
-    mainClass.set("nl.jasper.Application")
+    mainClass.set("nl.jasper.nearjumbostores.Application")
 }
 java {
     sourceCompatibility = JavaVersion.toVersion("17")
